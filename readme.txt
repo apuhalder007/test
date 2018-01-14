@@ -1,0 +1,1 @@
+This is readme text file. All project related information will store here in this file.
